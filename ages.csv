@@ -1,0 +1,45 @@
+Investor,Startup 1,Founders,Founders' Avg Age ,Startup 2,Founder 2,Founder 2 Age ,Startup 3,Founder 3,Founder 3 Age,Average Founder Age,Founder Age Spread
+Douglas Leone,MarketLive,"Mark Pierce, Barry Coleman",45,Medallia,Borge Hald,43,ServiceNow,Fred Luddy,51,46.33333333,8
+Paul Madera,Glaukos,"Olav Bergheim, Rick Hill, Mory Gharib",50,Wonga,"Errol Damelin, Jonty Hurwitz",43.5,Yammer,David Sacks,40,44.5,10
+Scott Sandell,Bitglass,Nat Kausik,49,Mulesoft,Ross Mason,37,Coursera,"Daphe Koller, Andrew Ng",39.5,41.83333333,12
+Josh Kopelman,Grokker,Lorna Borenstein,45,Swipely,Angus Davis,35,PandoDaily,Sara Lacy,37,39,10
+Aneel Bhusri,Elementum,Nader Mikhail,34,Domo,Josh James,40,Okta,Todd McKinnon,43,39,9
+Jeremy Levine,CardCash,"Elliot Bohm, Marc Ackerman",32,42 Floors,"Jason Freedman, Justin Bedecarre, James Bracy, John Bracy, Ben Ehmke, David Woodworth",32,XTime,"Neal East, Adam Galper",49.5,37.83333333,17.5
+Chris Sacca,Blue Bottle Coffee,James Freeman,40,Medium,Biz Stone,40,FOBO,"Ed McManus, Ryan Mickle",33,37.66666667,7
+Steve Anderson,nWay,"Dave Jones, Tony Harman, Taehoon Kim",41.66666667,SoFi,"Michael Cagney, James Finnigan, Daniel Macklin",31,IndexTank,Diego Basch,38,36.88888889,10.66666667
+David Sze,Nextdoor,"Nirav Tolia, Sarah Leary",41,Path,Dave Morin,31,Treehouse,"Alan Johnson, Ryan Carson",33,35,10
+Reid Hoffman,Swipely,Angus Davis,35,JellyHQ,"Biz Stone, Ben Finkel",36.5,Kiva,"Matthew Flannery, Jessica Jackley",32.5,34.66666667,4
+Todd Chaffee,Hipmunk,"Adam Goldstein, Steve Huffman",27.5,Domo,Josh James,40,Twitter,"Ev Williams, Biz Stone, Jack Dorsey",35.66666667,34.38888889,12.5
+Jim Goetz,Chartboost,Sean Fannane,30,Ruckus Wireless,Bill Kish,32,Hubspot,"Dharmesh Shah, Brian Halligan",40.5,34.16666667,10.5
+Fred Wilson,Sidecar,Sunil Paul,49,Coinbase,"Brian Armstrong, Fred Ehrsam",28,Zemanta,"Anraz Tori, Bostjan Spetic",25,34,24
+"Mike Maples, Jr.",Front Desk,"Travis Isaacs, Ben Vandenbos",32,The Zebra,"Adam Lyons, Joshua Dziabiak",25,Fitstar,"Mike Maser, Dave Grijalva",43,33.33333333,18
+Peter Thiel,Vend,Vaughan Rowsell,39,AppDirect,"Daniel Saks, Nicolas Desmarais",28,SoFi,"Michael Cagney, James Finnigan, Daniel Macklin",31,32.66666667,11
+Peter Fenton,Quip,"Kevin Gibbs, Bret Taylor",34,Optimizely,"Dan Siroker, Pete Koomen",31.5,Elasticsearch,Steven Schuurman,30,31.83333333,4
+Marc Andreessen,Oculus,Palmer Luckey,21,AngelList,Naval Ravikant,39,Muzy,"Andrew Chen, Matt Rubens",33,31,18
+Jim Breyer,NFC Direct,"Jeremy Allaire, Sean Neville",40.5,Clinkle,Lucas Duplan,22,Prismatic,"Bradford Cross, Aria Haghighi",30,30.83333333,18.5
+Michael Moritz,Stripe,"John Collison, Patrick COllison",22,6Wunderkinder,"Christian Reber, Jan Martin, Daniel Marschner, Sebastian Scheerer, Charlette PRevot",24,Skyscanner,"Gareth Williams, Barry Smith, Bonamy GRimes",44,30,22
+Ben Horowitz,Muzy,"Andrew Chen, Matt Rubens",33,Rap Genius,"Tom Lehman, Ilan Zechory, Mahbod Moghadam",28.33333333,AppNexus,"Brian O'Kelley, Mike Nolet",27,29.44444444,6
+Average,,,,,,,,,,35.71944444,12.13333333
+Median,,,,,,,,,,34.52777778,10.66666667
+,,,,,,,,,,,
+Investor,Average Founder Age,Founder Age Spread,,,,,,,,,
+Douglas Leone,46.33333333,8,,,,,,,,,
+Paul Madera,44.5,10,,,,,,,,,
+Scott Sandell,41.83333333,12,,,,,,,,,
+Josh Kopelman,39,10,,,,,,,,,
+Aneel Bhusri,39,9,,,,,,,,,
+Jeremy Levine,37.83333333,17.5,,,,,,,,,
+Chris Sacca,37.66666667,7,,,,,,,,,
+Steve Anderson,36.88888889,10.66666667,,,,,,,,,
+David Sze,35,10,,,,,,,,,
+Reid Hoffman,34.66666667,4,,,,,,,,,
+Todd Chaffee,34.38888889,12.5,,,,,,,,,
+Jim Goetz,34.16666667,10.5,,,,,,,,,
+Fred Wilson,34,24,,,,,,,,,
+"Mike Maples, Jr.",33.33333333,18,,,,,,,,,
+Peter Thiel,32.66666667,11,,,,,,,,,
+Peter Fenton,31.83333333,4,,,,,,,,,
+Marc Andreessen,31,18,,,,,,,,,
+Jim Breyer,30.83333333,18.5,,,,,,,,,
+Michael Moritz,30,22,,,,,,,,,
+Ben Horowitz,29.44444444,6,,,,,,,,,
